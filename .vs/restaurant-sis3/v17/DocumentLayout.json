@@ -1,12 +1,103 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Transferir\\Development\\Restaurant-sis3\\restaurant-sis3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B75E3AC3-B350-4C07-91F4-8FE4E057D1F3}|restaurant-sis3\\restaurant-sis3.csproj|c:\\transferir\\development\\restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\contexto\\restaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75E3AC3-B350-4C07-91F4-8FE4E057D1F3}|restaurant-sis3\\restaurant-sis3.csproj|solutionrelative:restaurant-sis3\\contexto\\restaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75E3AC3-B350-4C07-91F4-8FE4E057D1F3}|restaurant-sis3\\restaurant-sis3.csproj|c:\\transferir\\development\\restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B75E3AC3-B350-4C07-91F4-8FE4E057D1F3}|restaurant-sis3\\restaurant-sis3.csproj|solutionrelative:restaurant-sis3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75E3AC3-B350-4C07-91F4-8FE4E057D1F3}|restaurant-sis3\\restaurant-sis3.csproj|c:\\transferir\\development\\restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75E3AC3-B350-4C07-91F4-8FE4E057D1F3}|restaurant-sis3\\restaurant-sis3.csproj|solutionrelative:restaurant-sis3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75E3AC3-B350-4C07-91F4-8FE4E057D1F3}|restaurant-sis3\\restaurant-sis3.csproj|c:\\transferir\\development\\restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75E3AC3-B350-4C07-91F4-8FE4E057D1F3}|restaurant-sis3\\restaurant-sis3.csproj|solutionrelative:restaurant-sis3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75E3AC3-B350-4C07-91F4-8FE4E057D1F3}|restaurant-sis3\\restaurant-sis3.csproj|c:\\transferir\\development\\restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\restaurant-sis3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B75E3AC3-B350-4C07-91F4-8FE4E057D1F3}|restaurant-sis3\\restaurant-sis3.csproj|solutionrelative:restaurant-sis3\\restaurant-sis3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantContext.cs",
+              "DocumentMoniker": "C:\\Transferir\\Development\\Restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\Contexto\\RestaurantContext.cs",
+              "RelativeDocumentMoniker": "restaurant-sis3\\Contexto\\RestaurantContext.cs",
+              "ToolTip": "C:\\Transferir\\Development\\Restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\Contexto\\RestaurantContext.cs",
+              "RelativeToolTip": "restaurant-sis3\\Contexto\\RestaurantContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:56:15.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Transferir\\Development\\Restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "restaurant-sis3\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Transferir\\Development\\Restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "restaurant-sis3\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:00:37.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Transferir\\Development\\Restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\Program.cs",
+              "RelativeDocumentMoniker": "restaurant-sis3\\Program.cs",
+              "ToolTip": "C:\\Transferir\\Development\\Restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\Program.cs",
+              "RelativeToolTip": "restaurant-sis3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:00:25.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Transferir\\Development\\Restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\appsettings.json",
+              "RelativeDocumentMoniker": "restaurant-sis3\\appsettings.json",
+              "ToolTip": "C:\\Transferir\\Development\\Restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\appsettings.json",
+              "RelativeToolTip": "restaurant-sis3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T23:43:15.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "restaurant-sis3.csproj",
+              "DocumentMoniker": "C:\\Transferir\\Development\\Restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\restaurant-sis3.csproj",
+              "RelativeDocumentMoniker": "restaurant-sis3\\restaurant-sis3.csproj",
+              "ToolTip": "C:\\Transferir\\Development\\Restaurant-sis3\\restaurant-sis3\\restaurant-sis3\\restaurant-sis3.csproj",
+              "RelativeToolTip": "restaurant-sis3\\restaurant-sis3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T23:24:21.44Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
