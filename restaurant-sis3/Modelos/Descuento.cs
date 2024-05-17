@@ -22,5 +22,5 @@ public partial class Descuento
     public virtual ICollection<Pedido> Pedidos { get; set; } = new List<Pedido>();
 
     [InverseProperty("Descuento")]
-    public virtual ICollection<Promocione> Promociones { get; set; } = new List<Promocione>();
+    public virtual ICollection<Promociones> Promociones { get; set; } = new List<Promociones>();
 }

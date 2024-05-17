@@ -38,9 +38,9 @@ public partial class RestaurantContext : DbContext
 
     public virtual DbSet<Producto> Productos { get; set; }//aqui
 
-    public virtual DbSet<Promocione> Promociones { get; set; }
+    public virtual DbSet<Promociones> Promociones { get; set; }
 
-    public virtual DbSet<Proveedore> Proveedores { get; set; }
+    public virtual DbSet<Proveedores> Proveedores { get; set; }
 
     public virtual DbSet<Reserva> Reservas { get; set; }
 
@@ -157,7 +157,7 @@ public partial class RestaurantContext : DbContext
             entity.HasOne(d => d.Proveedor).WithMany(p => p.Productos).HasConstraintName("FK__Productos__Prove__7A672E12");
         });
 
-        modelBuilder.Entity<Promocione>(entity =>
+        modelBuilder.Entity<Promociones>(entity =>
         {
             entity.HasKey(e => e.PromocionId).HasName("PK__Promocio__2DA61DBDCF2D8ABE");
 
@@ -166,7 +166,7 @@ public partial class RestaurantContext : DbContext
             entity.HasOne(d => d.Descuento).WithMany(p => p.Promociones).HasConstraintName("FK__Promocion__Descu__71D1E811");
         });
 
-        modelBuilder.Entity<Proveedore>(entity =>
+        modelBuilder.Entity<Proveedores>(entity =>
         {
             entity.HasKey(e => e.ProveedorId).HasName("PK__Proveedo__61266BB9FCC80550");
 

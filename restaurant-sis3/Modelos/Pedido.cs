@@ -46,7 +46,7 @@ public partial class Pedido
 
     [ForeignKey("PromocionId")]
     [InverseProperty("Pedidos")]
-    public virtual Promocione? Promocion { get; set; }
+    public virtual Promociones? Promocion { get; set; }
 
     [ForeignKey("UsuarioId")]
     [InverseProperty("Pedidos")]

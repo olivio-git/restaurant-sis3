@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace restaurant_sis3.Modelos;
 
-public partial class Promocione
+public partial class Promociones
 {
     [Key]
     [Column("PromocionID")]
@@ -30,4 +30,5 @@ public partial class Promocione
 
     [InverseProperty("Promocion")]
     public virtual ICollection<Pedido> Pedidos { get; set; } = new List<Pedido>();
+    public int Id { get; internal set; }
 }

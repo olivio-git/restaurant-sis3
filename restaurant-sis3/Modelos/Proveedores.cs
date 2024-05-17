@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace restaurant_sis3.Modelos;
 
-public partial class Proveedore
+public partial class Proveedores
 {
     [Key]
     [Column("ProveedorID")]
